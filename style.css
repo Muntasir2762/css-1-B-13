@@ -1,0 +1,17 @@
+
+/* h1{
+    color: green;
+} */
+
+.heading1{
+    color: green;
+}
+
+.heading2{
+    color: red;
+}
+
+#heading3{
+    color: orange;
+    background-color: green;
+}
